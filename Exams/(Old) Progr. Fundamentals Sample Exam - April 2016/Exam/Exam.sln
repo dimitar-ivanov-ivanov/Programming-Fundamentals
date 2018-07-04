@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts", "Hogwarts\Hogwarts.csproj", "{35DED903-E10B-4DD7-B22D-3B1866197A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VechilePark", "VechilePark\VechilePark.csproj", "{EEE39511-E987-4A29-9C9F-0EDB51F2492D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlurFilter", "BlurFilter\BlurFilter.csproj", "{D488AA60-FE81-440D-A721-84A264234C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35DED903-E10B-4DD7-B22D-3B1866197A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DED903-E10B-4DD7-B22D-3B1866197A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DED903-E10B-4DD7-B22D-3B1866197A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DED903-E10B-4DD7-B22D-3B1866197A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE39511-E987-4A29-9C9F-0EDB51F2492D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE39511-E987-4A29-9C9F-0EDB51F2492D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE39511-E987-4A29-9C9F-0EDB51F2492D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE39511-E987-4A29-9C9F-0EDB51F2492D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D488AA60-FE81-440D-A721-84A264234C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D488AA60-FE81-440D-A721-84A264234C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D488AA60-FE81-440D-A721-84A264234C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D488AA60-FE81-440D-A721-84A264234C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45C83456-2A00-45B3-9C45-A4FBE7C974DE}
+	EndGlobalSection
+EndGlobal
